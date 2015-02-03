@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = ImagineSettings;
+		cell = PSLinkCell;
+		detail = "ImagineSettingsListController";
+		icon = "ImagineSettings.png";
+		isController = 1;
+		label = Imagine;
+	};
+}

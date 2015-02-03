@@ -1,0 +1,8 @@
+Package: com.shinvou.Imagine
+Name: Imagine
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Imagine
+Author: Timm Kandziora
+Section: Tweaks
